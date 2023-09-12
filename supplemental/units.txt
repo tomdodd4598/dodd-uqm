@@ -1,0 +1,4 @@
+1 ship pixel = 2.56 square metres
+1 ship mass unit = 28080 tonnes
+1 world unit per frame = 24 pixels per second
+1 facing per frame = 9.425 radians per second

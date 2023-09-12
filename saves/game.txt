@@ -1,0 +1,10 @@
+Cruiser
+16..Thermonuclear Thruster;;2..Thermonuclear Retro-Thruster;;2..Thermonuclear Lateral Stabiliser;;12..Thermonuclear Turning Jet
+0.05;;0.05
+-20487.201089913222;;8743.500687339969
+-66.78917966253135;;104.44288130095067
+2.249300041158051
+-0.05294493359532553
+0
+solar_system;;Sirius
+SOL;;ALPHA CENTAURI;;SIRIUS

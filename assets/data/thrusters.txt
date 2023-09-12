@@ -1,0 +1,12 @@
+Thermonuclear Thruster&&12000000.0&&0.0&&0.0&&0.0
+Thermonuclear Retro-Thruster&&0.0&&12000000.0&&0.0&&0.0
+Thermonuclear Lateral Stabiliser&&0.0&&0.0&&12000000.0&&0.0
+Thermonuclear Turning Jet&&0.0&&0.0&&0.0&&180000000.0
+Confined Fusion Thruster&&16000000.0&&0.0&&0.0&&0.0
+Confined Fusion Retro-Thruster&&0.0&&16000000.0&&0.0&&0.0
+Confined Fusion Lateral Stabiliser&&0.0&&0.0&&16000000.0&&0.0
+Confined Fusion Turning Jet&&0.0&&0.0&&0.0&&240000000.0
+Antimatter Thruster&&24000000.0&&0.0&&0.0&&0.0
+Antimatter Retro-Thruster&&0.0&&24000000.0&&0.0&&0.0
+Antimatter Lateral Stabiliser&&0.0&&0.0&&24000000.0&&0.0
+Antimatter Turning Jet&&0.0&&0.0&&0.0&&360000000.0

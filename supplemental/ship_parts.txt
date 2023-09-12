@@ -1,0 +1,23 @@
+Captain
+First Officer
+Helm Officer
+Weapons Officer
+Medical Officer
+Security Officer
+Xenotech Expert
+Systems Engineer
+Maintenance Engineer
+
+Cp,FO,HO,WO,MO,SO,XE,SE,ME
+
+Thermonuclear [Thorium, Uranium, Plutonium]
+Confined Fusion [Hydrogen, Helium, Lithium]
+Antimatter [Degenerate Matter, Neutronium]
+
+Thruster
+Retro-Thruster
+Lateral Stabiliser
+Turning Jet
+
+Rare Earth Dynamo
+Monopole Dynamo
